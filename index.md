@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to George' Github website. 
 
 You can use the [editor on GitHub](https://github.com/Gecrz/georgecruz.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
